@@ -16,7 +16,7 @@ body1{
     display: grid;
     grid-template-rows: auto 1fr auto;
     grid-template-areas:   
-    "hd nav nav "
+    "hd hd nav "
     "main par par "
     "ft ft ft ";
     
