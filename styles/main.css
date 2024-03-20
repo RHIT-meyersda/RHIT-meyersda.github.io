@@ -14,10 +14,10 @@ body1{
     font-size: 18px;
     line-height: 1.5;
     display: grid;
-    grid-template-columns: 1fr 4fr 2fr;
+    /* grid-template-columns: 1fr 4fr 4fr; */
     grid-template-rows: auto 1fr auto;
     grid-template-areas:   
-    "hd hd nav "
+    "hd nav nav "
     "main par par "
     "ft ft ft ";
     
